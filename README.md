@@ -3,7 +3,7 @@
 ## Install
 
 <pre>
-  npm install request
+  npm install request oyeah
 </pre>
 
 Or from source:
